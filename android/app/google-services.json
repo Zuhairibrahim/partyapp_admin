@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "29011972943",
+    "project_id": "partyapp-a9781",
+    "storage_bucket": "partyapp-a9781.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29011972943:android:98aeef55fe03508bd46b3a",
+        "android_client_info": {
+          "package_name": "com.zuhair.partyapp.apps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3KQHsZ8psnBCQgm7cBrUm8Y0flP4uDfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29011972943:android:9f2fb207c88c9cafd46b3a",
+        "android_client_info": {
+          "package_name": "com.zuhair.partyappadmin.apps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3KQHsZ8psnBCQgm7cBrUm8Y0flP4uDfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
